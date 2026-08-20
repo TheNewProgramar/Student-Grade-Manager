@@ -34,7 +34,7 @@ gcc -Wall -Wextra -o student_manager main.c
 ./student_manager
 ```
 📝 Usage:
-
+```text
 ==== STUDENT GRADE MANAGER ====
 1. Add Student
 2. View Students
@@ -43,3 +43,9 @@ gcc -Wall -Wextra -o student_manager main.c
 5. Load from File
 6. Exit
 ===============================
+
+📁 File Format
+
+Students are saved in students.txt:
+
+Name|Class|Subject|Grade|GPA

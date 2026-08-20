@@ -1,3 +1,14 @@
+# 📚 Learning Goals
+
+This project is for learning:
+
+  - Structs in C
+  - Dynamic memory allocation
+  - File I/O
+  - String manipulation
+  - Modular programming
+----------------------------------------
+
 # 📚 Student Grade Manager
 
 A simple command-line program written in C to manage student grades.

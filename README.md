@@ -27,3 +27,8 @@ A simple command-line program written in C to manage student grades.
 
 ```bash
 gcc -Wall -Wextra -o student_manager main.c
+```
+
+🏃 How to Run
+```bash
+./student_manager

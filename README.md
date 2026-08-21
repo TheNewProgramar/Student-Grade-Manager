@@ -28,7 +28,7 @@ A simple command-line program written in C to manage student grades.
 - [✔️] Delete students
 - [✔️] Sort by grade or name
 - [✔️] Export to CSV
-- the program finished  
+- [✔️] the program finished
 
 ## 📋 Requirements
 

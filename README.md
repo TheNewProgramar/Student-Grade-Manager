@@ -24,10 +24,10 @@ A simple command-line program written in C to manage student grades.
 
 ## 🛠️ Planned Features
 
-- [ ] Edit existing student records
-- [ ] Delete students
-- [ ] Sort by grade or name
-- [ ] Export to CSV
+- [✅] Edit existing student records
+- [✅] Delete students
+- [✅] Sort by grade or name
+- [✅] Export to CSV
 
 ## 📋 Requirements
 

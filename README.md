@@ -64,10 +64,14 @@ gcc -Wall -Wextra -o student_manager main.c
 ```bash
 ./student_manager
 ```
-📝 Usage:
+# welcome menu:
 ```text
-==== STUDENT GRADE MANAGER ====
-
+===== WELCOME =====
+1. Admin Login
+2. Student Login
+3. Exit
+====================
+```
 📁 File Format
 
 Students are saved in students.txt:

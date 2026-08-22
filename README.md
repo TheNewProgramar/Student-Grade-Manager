@@ -72,6 +72,18 @@ gcc -Wall -Wextra -o student_manager main.c
 3. Exit
 ====================
 ```
+# Admin Menu
+```text
+
+==== ADMIN MENU ====
+1. Add Student
+2. View Students
+3. Calculate Average
+4. Save to File
+5. Load from File
+6. Exit
+====================
+```
 📁 File Format
 
 Students are saved in students.txt:

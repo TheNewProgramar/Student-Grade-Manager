@@ -44,7 +44,10 @@ A command-line student management system written in C with admin authentication 
 - [ ] Export to CSV
 
 ## 📋 Default Admin Credentials
-
+```text
+Username: admin
+Password: admin123
+```
 
 ## 📋 Requirements
 

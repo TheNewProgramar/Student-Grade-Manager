@@ -1,12 +1,14 @@
 # 📚 Learning Goals
 
-This project is for learning:
+This project demonstrates:
 
   - Structs in C
-  - Dynamic memory allocation
-  - File I/O
-  - String manipulation
-  - Modular programming
+  - Dynamic memory allocation (malloc, realloc, free)
+  - File I/O (fopen, fprintf, fgets)
+  - String parsing (strtok, strcpy, strcspn)
+  - Authentication systems
+  - Random number generation
+  - Menu-driven programming
 ----------------------------------------
 
 # 📚 Student Grade Manager

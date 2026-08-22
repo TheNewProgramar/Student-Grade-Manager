@@ -84,8 +84,8 @@ gcc -Wall -Wextra -o student_manager main.c
 6. Exit
 ====================
 ```
-📁 File Format
-
+# 📁 File Format
+```text
 Students are saved in students.txt:
-
-Name|Class|Subject|Grade|GPA
+ID|Name|Class|Subject|Grade|GPA
+```

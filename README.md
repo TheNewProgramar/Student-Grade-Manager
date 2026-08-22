@@ -67,13 +67,6 @@ gcc -Wall -Wextra -o student_manager main.c
 📝 Usage:
 ```text
 ==== STUDENT GRADE MANAGER ====
-1. Add Student
-2. View Students
-3. Calculate Average
-4. Save to File
-5. Load from File
-6. Exit
-===============================
 
 📁 File Format
 

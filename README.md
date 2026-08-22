@@ -1,3 +1,7 @@
+# 📄 License
+```text
+# This project is open source and free to use.
+```
 # 📚 Learning Goals
 
 This project demonstrates:
